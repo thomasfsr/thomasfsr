@@ -3,4 +3,3 @@
 - 📝 Mi Articles: https://medium.com/@thomasfsr 
 - 🤝 LinkedIn: https://www.linkedin.com/in/thomasfsr/ 
 - 📫 e-mail: thomas.fsr@gmail.com 
-- there will be much more projects, expecially related to SQL and PowerBI
