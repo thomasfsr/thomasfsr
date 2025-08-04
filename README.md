@@ -3,5 +3,3 @@
 - 📝 Mi Articles: https://medium.com/@thomasfsr 
 - 👥 LinkedIn: https://www.linkedin.com/in/thomasfsr/ 
 - 📫 e-mail: thomas.fsr@gmail.com
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasfsr&layout=compact&theme=dark)
